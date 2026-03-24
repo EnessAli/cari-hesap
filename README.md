@@ -1,4 +1,4 @@
-# cari-hesap
+# ledger
 
 A C# desktop application for managing **Cari Hesap** (accounts receivable / payable) records. Supports creating, editing, and tracking debit/credit entries with persistent storage via Entity Framework Core.
 
